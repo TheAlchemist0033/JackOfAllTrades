@@ -2,7 +2,7 @@
     "//1": "Simple app with the purpose of doing everything and nothing all at once.",
     "//2": "https://docs.npmjs.com/files/package.json",
     "//3": "updating this file will download and update your packages",
-    "name": "JackBot",
+    "name": "jackbot",
     "version": "0.0.1-beta",
     "description": "A bot designed for CELL.",
     "main": "server.js",
